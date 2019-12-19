@@ -64,7 +64,8 @@
 						<goals>
 							<goal>prepare-agent</goal>
 						</goals>
-					</execution>
+					</execution>     
+					
 					<execution>
 						<id>report</id>
 						<phase>test</phase>
